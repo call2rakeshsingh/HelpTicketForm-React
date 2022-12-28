@@ -1,24 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
-  
 }
 
 body{
-    background-color: rgb(226, 249, 254);
-}
-
-.row>* {
-    padding-right: calc(var(--bs-gutter-x) * 0);
-    padding-left: calc(var(--bs-gutter-x) * 0);
-    margin-top: var(--bs-gutter-y);
-}
-
-.notesCard{
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.button{
-    margin-right: 10px;
-    margin-bottom: 10px;
+    background-color: rgb(223, 241, 244);
 }

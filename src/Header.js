@@ -10,7 +10,7 @@ function Header() {
     <div className="container-fluid">
       <a className="navbar-brand ml-5" href="#">
       <img src={logo} width="100"  />
-      <span className='p-5 fw-bolder fs-1 text-success'>Keep App</span>
+      <span className='p-5 fw-bolder fs-1 text-success'>Help Ticket Form</span>
       </a>
     </div>
   </nav>
