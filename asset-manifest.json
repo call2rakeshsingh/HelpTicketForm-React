@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HelpTicketForm-React/static/css/main.9287f524.css",
+    "main.js": "/HelpTicketForm-React/static/js/main.14c3ef1f.js",
+    "static/media/logo.png": "/HelpTicketForm-React/static/media/logo.275b167fdb3c6514e1b3.png",
+    "index.html": "/HelpTicketForm-React/index.html",
+    "main.9287f524.css.map": "/HelpTicketForm-React/static/css/main.9287f524.css.map",
+    "main.14c3ef1f.js.map": "/HelpTicketForm-React/static/js/main.14c3ef1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9287f524.css",
+    "static/js/main.14c3ef1f.js"
+  ]
+}
